@@ -1,1 +1,1 @@
-This is a random svm project
+This is a svm project that was done during the training.
